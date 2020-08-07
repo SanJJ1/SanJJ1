@@ -4,7 +4,16 @@ This is my GitHub
 
 ----
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SanJJ1)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SanJJ1&count_private=true&show_icons=true&hide=stars,prs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+----
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SanJJ1&repo=stonks&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+----
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanJJ1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
