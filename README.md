@@ -3,7 +3,7 @@
 This is my GitHub
 
 ----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanJJ1&hide=jupyter%20notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanJJ1&hide=html,jupyter%20notebook)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SanJJ1&count_private=true&show_icons=true&hide=stars,prs&hide_rank=true)
 
 ----
